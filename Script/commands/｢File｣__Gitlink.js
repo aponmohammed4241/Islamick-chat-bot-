@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "getlink",
     version: "1.0.0",
     hasPermission: 0,
-    credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
+    credits: "𝐈my master apon",
     description: "Get the URL Download from Video, Audio is sent from the group",
     commandCategory: "user",
     usages: "",
