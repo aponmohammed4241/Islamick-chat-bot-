@@ -2,7 +2,7 @@ module.exports.config = {
     name: 'timejoinbox',
     version: '10.02',
     hasPermssion: 0,
-    credits: 'Islamick Cyber Chat',
+    credits: 'my master apon',
     description: 'group join time box',
     commandCategory: 'time box',
     usages: '{...reply || tags}\n{all || list}',
