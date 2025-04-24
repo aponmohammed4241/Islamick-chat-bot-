@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "math",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
+	credits: "my master apon",
 	description: "Education",
 	commandCategory: "study",
 	usages: "math 1 + 2",
