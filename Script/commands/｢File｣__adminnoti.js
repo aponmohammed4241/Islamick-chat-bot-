@@ -5,7 +5,7 @@ module.exports.config = {
     name: "adminnoti",
     version: "1.0.0",
     hasPermission: 2,
-    credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
+    credits: "my master apon",
     description: "",
     commandCategory: "admin",
     usages: "[msg]",
