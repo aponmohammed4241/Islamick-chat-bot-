@@ -2,7 +2,7 @@ module.exports.config = {
   name: "by",
   version: "1.0.0",
   hasPermission: 2,
-  credits: "Islamick Cyber Chat",
+  credits: "my master apon",
   description: "Leave the group",
   commandCategory: "Admin",
   usages: "out [id]",
