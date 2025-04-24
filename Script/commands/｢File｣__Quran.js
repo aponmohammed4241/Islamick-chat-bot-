@@ -2,7 +2,7 @@ module.exports.config = {
   name: "কুরআন",
   version: "0.0.1",
   hasPermssion: 1,
-  credits: "Islmaick Chat",
+  credits: "my master apon",
   description: "কুরআনের ছোট ছোট সূরা",
   commandCategory: "book",
   usages: "",
