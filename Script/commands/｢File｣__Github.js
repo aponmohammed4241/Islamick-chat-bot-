@@ -2,7 +2,7 @@ module.exports.config = {
   name: "github",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "my master apon",
   description: "information github username",
   commandCategory: "info",
   depndencies: {"fetch": "","node-fetch": "", "moment": ""},
