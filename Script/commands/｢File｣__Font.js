@@ -4,7 +4,7 @@ module.exports.config = {
   name: 'font',
   version: '1.1.0',
   hasPermssion: 0,
-  credits: 'Islamick Cyber Chat',//**Don't change my stall code
+  credits: 'my master apon',//**Don't change my stall code
   description: 'Converts text into any Font',
   commandCategory: 'Tools',
   usages: '<fontType> <input>',
