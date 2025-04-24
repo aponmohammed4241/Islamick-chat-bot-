@@ -2,7 +2,7 @@ module.exports.config = {
     name: "file",
     version: "1.0.1",
     hasPermission: 2,
-    credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
+    credits: "my master apon",
     description: "Delete the file or folder in the commands folder",
     commandategory: "Admin",
     usages: "\ncommands start <text>\ncommands ext <text>\ncommands <text>\ncommands [leave blank]\ncommands help\nNOTE: <text> is the character you want to enter",
