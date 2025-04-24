@@ -3,7 +3,7 @@ config: {
     name: "pinterest",
     version: "1.0.0",
     hasPermission: 0,
-    credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
+    credits: "my master apon",
     description: "image search",
     commandCategory: "with prefix",
     usages: "pinterest (text) - (amount)",
