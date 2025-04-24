@@ -4,7 +4,7 @@ const axios = require('axios');
 module.exports.config = {
   name: "sura",
   version: "1.6",
-  credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
+  credits: "my master apon",
   hasPermssion:0,
   commandCategory: "sura",
   description:"playing sura",
