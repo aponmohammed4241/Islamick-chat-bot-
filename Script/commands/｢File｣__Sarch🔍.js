@@ -2,7 +2,7 @@ module.exports.config = {
     name: "sarch",
     version: "1.0.0",
     hasPermission: 0,
-    credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
+    credits: "my master apon",
     description: "search results on google",
     commandCategory: " prefix",
     usages: "google [text]",
