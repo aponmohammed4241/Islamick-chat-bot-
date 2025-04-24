@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁",
-    "PREFIX": "/",
+    "BOTNAME": "ROSE DAWSON",
+    "PREFIX": "APON",
     "ADMINBOT": [
         "61552105877757"
     ],
     "NDH": [
-        "100006420851274"
+        "61550806961724"
     ],
     "DATABASE": {
         "sqlite": {
