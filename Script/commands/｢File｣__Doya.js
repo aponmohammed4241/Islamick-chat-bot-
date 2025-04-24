@@ -2,7 +2,7 @@
   name: "doya",
   version: "1.2.8",
   hasPermssion: 0,
-  credits: "Islamick cyber  Chat", 
+  credits: "my master apon", 
   description: "Short doya",
   commandCategory: "doya",
   usages: "doya",
