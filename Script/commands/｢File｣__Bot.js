@@ -202,22 +202,28 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if ((event.body.toLowerCase() == "tore chudi") || (event.body.toLowerCase() == "miss you")) {
      return api.sendMessage("<fuck you🥹🤖👅/👅-✘  🎀 🍒:))", threadID);
    };
- if ((event.body.toLowerCase() == "apon") || (event.body.toLowerCase() == "miss you")) {
+
+  if ((event.body.toLowerCase() == "apon") || (event.body.toLowerCase() == "miss you")) {
      return api.sendMessage("<kire kuttar baccha tor sommosa ki🥹🤖👅/👅-✘  🎀 🍒:))", threadID);
    };
- if ((event.body.toLowerCase() == "hi") || (event.body.toLowerCase() == "miss you")) {
+
+  if ((event.body.toLowerCase() == "hi") || (event.body.toLowerCase() == "miss you")) {
      return api.sendMessage("<oi chele tumi ki amar bondhu hobe🥹🤖👅/👅-✘  🎀 🍒:))", threadID);
    };
- if ((event.body.toLowerCase() == "allah hafiz") || (event.body.toLowerCase() == "miss you")) {
+
+  if ((event.body.toLowerCase() == "allah hafiz") || (event.body.toLowerCase() == "miss you")) {
      return api.sendMessage("<bye sabdane jaiyo na jaite parle apon ke niye jaiyo🥹🤖👅/👅-✘  🎀 🍒:))", threadID);
    };
- if ((event.body.toLowerCase() == "sadiya") || (event.body.toLowerCase() == "miss you")) {
+
+  if ((event.body.toLowerCase() == "sadiya") || (event.body.toLowerCase() == "miss you")) {
      return api.sendMessage("<chup ota apon er bou 🥹🤖👅/👅-✘  🎀 🍒:))", threadID);
    };
- if ((event.body.toLowerCase() == "bot kick de") || (event.body.toLowerCase() == "miss you")) {
+
+  if ((event.body.toLowerCase() == "bot kick de") || (event.body.toLowerCase() == "miss you")) {
      return api.sendMessage("<keno go ami tomar ki amon khoti korlam please amak kick diyo na ami ajke theke valo hoiye jabo promise🥹🤖👅/👅-✘  🎀 🍒:))", threadID);
    };
-if ((event.body.toLowerCase() == "bot fuck you") || (event.body.toLowerCase() == "miss you")) {
+
+  if ((event.body.toLowerCase() == "bot fuck you") || (event.body.toLowerCase() == "miss you")) {
      return api.sendMessage("<chi tor dhon choto tor sathe kotha nai🥹🤖👅/👅-✘  🎀 🍒:))", threadID);
    };
   mess = "{name}"
